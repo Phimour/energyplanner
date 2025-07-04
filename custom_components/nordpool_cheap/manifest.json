@@ -1,0 +1,9 @@
+{
+    "domain": "nordpool_cheap",
+    "name": "Nordpool Cheap Slots",
+    "version": "0.1",
+    "documentation": "https://github.com/example/nordpool_cheap",
+    "dependencies": [],
+    "codeowners": [],
+    "requirements": ["nordpool"]
+}
